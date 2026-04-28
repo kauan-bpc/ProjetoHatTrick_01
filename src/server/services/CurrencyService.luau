@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 
 local CurrencyService = {}
 
-local STARTING_MONEY = 500
+local STARTING_MONEY = 50000000
 
 local function setupLeaderstats(player)
 	local leaderstats  = Instance.new("Folder")
